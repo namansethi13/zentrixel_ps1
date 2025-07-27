@@ -1,0 +1,4 @@
+google-cloud-pubsub
+textblob==0.17.1
+google-cloud-pubsub 
+google-cloud-firestore

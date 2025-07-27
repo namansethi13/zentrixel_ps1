@@ -1,0 +1,7 @@
+spacy
+requests
+python-dotenv
+openai
+tqdm
+python-dotenv
+google-cloud-firestore
